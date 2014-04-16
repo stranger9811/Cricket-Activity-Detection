@@ -1,5 +1,5 @@
-system('python crowd_batsman_fielder.py')
-get_count = fopen('img_crowd_batsman_fielder.txt', 'r');
+system('python pitch_ground.py')
+get_count = fopen('img_pitch_other.txt', 'r');
 tline = fgetl(get_count); currentLine = 1;
 while ischar(tline)       
     tline = fgetl(get_count);
@@ -10,7 +10,7 @@ number_of_training_data = currentLine - 1;
 
 
 
-imgListFile = fopen('img_crowd_batsman_fielder.txt', 'r');
+imgListFile = fopen('img_pitch_other.txt', 'r');
 training_data = zeros(number_of_training_data,256);
 labels = cell(number_of_training_data,1);
 
@@ -33,4 +33,4 @@ while ischar(tline)
 end;
 
 
-nb_crowd_batsman_fielder = NaiveBayes.fit(training_data, labels);
+SVM_pitch_other = svmtrain(training_data, labels);
