@@ -55,7 +55,7 @@ License
 GPLv3
 
 
-**Free Softwares and Codes, Hell Yeah!**
+**Free Softwares and Codes,
 
 http://www.cse.iitk.ac.in/users/vision/dipen/code
 

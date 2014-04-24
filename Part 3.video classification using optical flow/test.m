@@ -1,5 +1,6 @@
-start = 11215;
-endF = 11240;
+start = 384;
+endF = 418;
+
 images=[];
 for k = start:endF
 	I = im2double(imread(strcat('/Users/Ashok/Dropbox/AI project/My Code/cut_noncut_classifier/testing_snap_png/snaps',int2str(k),'.png')));
