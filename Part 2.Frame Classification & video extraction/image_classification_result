@@ -1,0 +1,83 @@
+pitch = [[103,185],[337,466],[915,1027],[1201,1263],[1680,1734],[1735,1789],[2210,2283]]
+pitch_obtained = [[103,210],[337,471],[652,669],[915,1027],[1201,1263],[1280,1290],[1680,1734],[1735,1789],
+[2105,2117],[2210,2183]]	
+
+ground = [[1,85],[186,210],[211,336],[467,471],[472,504],[1049,1200],[1280,1290],[1336,1414],[1830,2086]]
+ground_obtained = [[1,85],[211,336],[472,504],[510,558],[1049,1200],[1336,1414],[1830,2086]]	
+
+
+fielder = [[510,558],[559,602],[670,897],[652,669],[2089,2157],[2156,2200]]	
+fielder_obtained = [[559,602],[670,897],[2089,2104],[2118,2157],[2156,2200],[5560,5600]]			
+
+batsman  = [[1445,1500]]
+batsman_obtained = [[1445,1540]]
+
+crowd = [[5292,5397]]
+crowd_obtained = [[5292,5297],]
+
+
+
+
+
+cricket shot detected   C
+   121
+
+cricket shot detected  C
+   361
+
+cricket shot detected C
+   949
+
+cricket shot detected  C
+        1225
+
+cricket shot detected  C
+        1755
+
+cricket shot detected  C
+        2230
+
+cricket shot detected  C/I
+        2599
+
+cricket shot detected   Inc
+        3099
+
+cricket shot detected  Inc
+        3345
+
+cricket shot detected  Inc
+        3922
+
+cricket shot detected  Inc
+        5422
+
+cricket shot detected  Inc
+        6129
+
+cricket shot detected  Inc
+        6769
+
+cricket shot detected  Inc
+        6987
+
+cricket shot detected
+        7659
+
+cricket shot detected  C
+        7800
+
+cricket shot detected  C
+        8385
+
+cricket shot detected  Inc
+        8781
+
+cricket shot detected  C
+        9011
+
+cricket shot detected  Inc
+        9177
+
+cricket shot detected  Inc
+        9434
